@@ -21,5 +21,5 @@ It’s designed to demonstrate **clean code**, responsive layout, and **real-wor
 - **PHP** – Backend (if used)  
 - **MySQL** – Database (if used)  
 
-## 📁 Project Structure
+
 
